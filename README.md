@@ -1,4 +1,4 @@
-# multiple-layout
+# multiple-layouts
 
 ## Project setup
 ```
