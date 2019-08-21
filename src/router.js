@@ -15,6 +15,10 @@ export default new Router({
   mode: 'history',
   routes: [
     {
+      path: '/',
+      redirect: '/research',
+    },    
+    {
       path: '/investor',
       name: 'Investor',
       meta: { layout: 'investor' },
